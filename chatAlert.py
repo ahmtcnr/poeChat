@@ -15,22 +15,6 @@ from notify_run import Notify
 from notify_run import Notify
 
 notify = Notify()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 val1 = input("do you want continue? y/n")
 
 if(val1=="y"):
